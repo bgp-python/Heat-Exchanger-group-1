@@ -35,7 +35,8 @@ class HeatExchanger():
    
 # Gabriel
     def getInput(self):
-        # Variables are set here.
+        # Variables are set here.#
+        # Import the thermo data for ease of access. 
     """user can specify:
             aes or si units
             U, T_ci, T_hi, m_c, m_h, T_co or T_ho
